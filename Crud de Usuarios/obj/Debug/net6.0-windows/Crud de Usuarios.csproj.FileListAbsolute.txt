@@ -1,0 +1,30 @@
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\Crud de Usuarios.exe
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\Crud de Usuarios.deps.json
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\Crud de Usuarios.runtimeconfig.json
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\Crud de Usuarios.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\Crud de Usuarios.pdb
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud_de_Usuarios.Form1.resources
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.AssemblyInfo.cs
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\refint\Crud de Usuarios.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.pdb
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.genruntimeconfig.cache
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\ref\Crud de Usuarios.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud_de_Usuarios.Properties.Resources.resources
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud_de_Usuarios.ActualizarInformacion.resources
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud_de_Usuarios.AgregarEmpleados.resources
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud_de_Usuarios.ConsultaEmpleados.resources
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud_de_Usuarios.home.resources
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\maria\Desktop\htmladrian\Crud\Crud de Usuarios\obj\Debug\net6.0-windows\Crud de Usuarios.csproj.CopyComplete
